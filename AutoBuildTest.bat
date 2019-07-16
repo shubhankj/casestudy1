@@ -1,0 +1,1 @@
+START "AutoBuildTest" ConsoleApplication1\Program.exe
