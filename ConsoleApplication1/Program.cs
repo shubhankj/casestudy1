@@ -2,13 +2,12 @@
 
 namespace ConsoleApplication1
 {
-    class Program
+    public class Program
     {
-        void SamplePrint()
+        public bool SamplePrint()
         {
             Console.WriteLine("Hello");
-            Console.ReadKey();
-            Console.ReadKey();
+            return true;
         }
         static void Main(string[] args)
         {
