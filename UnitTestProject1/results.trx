@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="61562cd1-f277-496c-a9f8-178ce2c6d7ca" name="320052125@INGBTCPIC5NBXRV 2019-07-18 14:34:20" runUser="CODE1\320052125" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="460df454-3db7-4ca7-bf9d-e75dac6a0019">
+    <Deployment userDeploymentRoot="C:\Users\320052125\C++CaseStudy\casestudy1\UnitTestProject1" useDefaultDeploymentRoot="false" runDeploymentRoot="320052125_INGBTCPIC5NBXRV 2019-07-18 14_34_20" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Properties />
+  </TestSettings>
+  <Times creation="2019-07-18T14:34:20.3144916+05:30" queuing="2019-07-18T14:34:21.1390594+05:30" start="2019-07-18T14:34:21.3141845+05:30" finish="2019-07-18T14:34:21.8565690+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="unittestproject1\bin\debug\unittestproject1.dll" id="5b688acc-bf10-4c7e-4b60-69d8596bdd90">
+      <Execution id="d08062ef-1dcb-4adc-aa25-3a5f58d80bb4" />
+      <TestMethod codeBase="C:/Users/320052125/C++CaseStudy/casestudy1/UnitTestProject1/bin/debug/UnitTestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestProject1.UnitTest1, UnitTestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5b688acc-bf10-4c7e-4b60-69d8596bdd90" executionId="d08062ef-1dcb-4adc-aa25-3a5f58d80bb4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d08062ef-1dcb-4adc-aa25-3a5f58d80bb4" testId="5b688acc-bf10-4c7e-4b60-69d8596bdd90" testName="TestMethod1" computerName="INGBTCPIC5NBXRV" duration="00:00:00.0231927" startTime="2019-07-18T14:34:21.3682228+05:30" endTime="2019-07-18T14:34:21.7735104+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d08062ef-1dcb-4adc-aa25-3a5f58d80bb4">
+      <Output>
+        <StdOut>Hello</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

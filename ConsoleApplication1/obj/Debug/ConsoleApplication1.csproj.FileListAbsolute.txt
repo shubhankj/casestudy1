@@ -12,3 +12,11 @@ C:\Users\320052125\C++CaseStudy\casestudy1\casestudy1\ConsoleApplication1\bin\De
 C:\Users\320052125\C++CaseStudy\casestudy1\casestudy1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\320052125\C++CaseStudy\casestudy1\casestudy1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
 C:\Users\320052125\C++CaseStudy\casestudy1\casestudy1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.CodeAnalysisLog.xml
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.lastcodeanalysissucceeded
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\320052125\C++CaseStudy\casestudy1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
