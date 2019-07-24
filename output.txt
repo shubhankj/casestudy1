@@ -1,0 +1,2 @@
+C:\Users\320052123\C++CaseStudy\casestudy1\HelloWorld\src\HelloWorld.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+C:\Users\320052123\C++CaseStudy\casestudy1\HelloWorld\src\HelloWorld.java:2:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
