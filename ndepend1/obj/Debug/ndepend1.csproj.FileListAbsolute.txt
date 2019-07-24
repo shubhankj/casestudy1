@@ -1,0 +1,8 @@
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\bin\Debug\ndepend1.exe.config
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\obj\Debug\ndepend1.csprojResolveAssemblyReference.cache
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\bin\Debug\ndepend1.exe
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\bin\Debug\ndepend1.pdb
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\bin\Debug\NDepend.API.dll
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\bin\Debug\NDepend.API.xml
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\obj\Debug\ndepend1.exe
+C:\Users\320052125\C++CaseStudy\casestudy1\ndepend1\obj\Debug\ndepend1.pdb

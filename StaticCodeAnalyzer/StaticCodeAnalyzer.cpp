@@ -10,25 +10,30 @@ using namespace std;
 
 int main()
 {
-	char data[100];
+	string data;
 	string file1 = "..\\ReportFile.emacs";
 	string file2 = "..\\output.txt";
+	string outfile = "..\\FinalReport.txt";
 	ifstream infile1, infile2;
+	ofstream myfile(outfile);
+
+	myfile << "SpotBugs:" << endl;
 	infile1.open(file1);
-	infile2.open(file2);
-	while(infile1)
+	while (getline(infile1, data))
 	{
-
-	infile1 >> data;
-	cout << data;
-		
+		cout << data << endl;
+		myfile << data << endl;
 	}
-	cout << endl;
-	infile2 >> data;
-	cout << data<<endl;
 
-
-	
-
-    return 0;
+	myfile <<endl<< "PMD:" << endl;
+	infile2.open(file2);
+	while (getline(infile2, data))
+	{
+		cout << data << endl;
+		myfile << data << endl;
+	}
+	infile1.close();
+	infile2.close();
+	myfile.close();
+	return 0;
 }
