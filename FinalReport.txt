@@ -1,0 +1,7 @@
+SpotBugs:
+HelloWorld.java:9:9 DLS: Dead store to hw in HelloWorld.main(String[]) (H) 
+HelloWorld.java:9:9 ISC: HelloWorld.main(String[]) needlessly instantiates a class that only supplies static methods (L) 
+
+PMD:
+C:\Users\320052125\C++CaseStudy\casestudy1\HelloWorld\src\HelloWorld.java:2:	All classes, interfaces, enums and annotations must belong to a named package
+C:\Users\320052125\C++CaseStudy\casestudy1\HelloWorld\src\HelloWorld.java:2:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
