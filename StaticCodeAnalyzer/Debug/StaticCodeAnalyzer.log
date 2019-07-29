@@ -1,3 +1,5 @@
-﻿  StaticCodeAnalyzer.cpp
-  StaticCodeAnalyzer.vcxproj -> C:\Users\320052125\C++CaseStudy\casestudy1\StaticCodeAnalyzer\Debug\StaticCodeAnalyzer.exe
-  StaticCodeAnalyzer.vcxproj -> C:\Users\320052125\C++CaseStudy\casestudy1\StaticCodeAnalyzer\Debug\StaticCodeAnalyzer.pdb (Full PDB)
+﻿  stdafx.cpp
+  StaticCodeAnalyzer.cpp
+  LINK : C:\Users\320052123\C++CaseStudy\casestudy1\StaticCodeAnalyzer\Debug\StaticCodeAnalyzer.exe not found or not built by the last incremental link; performing full link
+  StaticCodeAnalyzer.vcxproj -> C:\Users\320052123\C++CaseStudy\casestudy1\StaticCodeAnalyzer\Debug\StaticCodeAnalyzer.exe
+  StaticCodeAnalyzer.vcxproj -> C:\Users\320052123\C++CaseStudy\casestudy1\StaticCodeAnalyzer\Debug\StaticCodeAnalyzer.pdb (Full PDB)
