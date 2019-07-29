@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  StaticCodeAnalyzerTest.cpp
+  StaticCodeAnalyzer.cpp
+  Generating Code...
+gtestd.lib(gtest-all.obj) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'

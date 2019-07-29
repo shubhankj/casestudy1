@@ -6,6 +6,7 @@
 #include<string>
 #include <algorithm> 
 #include <regex>
+#include <gtest/gtest.h>
 
 using namespace std;
 
@@ -101,8 +102,12 @@ using namespace std;
 		}
 	};
 
-	int main()
+	int main(int argc, char* argv[])
 	{
+		testing::InitGoogleTest(&argc, argv);
+		
+		RUN_ALL_TESTS();
+
 		bool PMDStatus = StaticCodeAnalyzer::PMDTool(R"(pmd-bin-6.16.0\bin\pmd.bat -d feereport -f text -R pmd-bin-6.16.0\bin\rulesets\java\quickstart.xml -r PMDReport.txt)");
 
 		bool SpotBugsStatus = StaticCodeAnalyzer::SpotBugsTool(R"(spotbugs-3.1.12\bin\spotbugs.bat -textui -maxHeap 1500 -nested:false -output SpotBugsReport.emacs -effort:max -low -sortByClass -emacs sourcepath feereport)");
