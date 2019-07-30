@@ -1,148 +1,148 @@
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\Accountant.java:5:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\Accountant.java:6:	Document empty constructor
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:10:	The utility class name 'AccountantDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:22:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:23:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:26:	Always check the return of one of the navigation method (next,previous,first,last) of a ResultSet.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:26:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:37:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:38:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:51:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:52:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:53:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantSection.java:21:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AccountantSection.java:90:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AddAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AddAccountant.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AddAccountant.java:109:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:26:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:161:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:19:	Avoid unused imports such as 'javax.swing.LayoutStyle.ComponentPlacement'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:74:	Position literals first in String comparisons
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:74:	Position literals first in String comparisons
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:9:	Avoid unused imports such as 'javax.swing.JTable'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:18:	Avoid unused imports such as 'java.util.List'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:23:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:78:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\DueFee.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\DueFee.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\DueFee.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:14:	Avoid unused imports such as 'java.awt.Font'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:15:	Avoid unused imports such as 'java.awt.Color'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:27:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:187:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\FeeReport.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\FeeReport.java:20:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\FeeReport.java:67:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\Student.java:5:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\Student.java:6:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\Student.java:7:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\Student.java:10:	Document empty constructor
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:5:	The utility class name 'StudentDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:10:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:11:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:31:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:32:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:53:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:54:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:55:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:79:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:80:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:82:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:104:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:105:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:106:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\ViewAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\ViewAccountant.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\ViewAccountant.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\ViewStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\ViewStudent.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\ViewStudent.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Accountant.java:5:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Accountant.java:6:	Document empty constructor
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:10:	The utility class name 'AccountantDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:22:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:23:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:26:	Always check the return of one of the navigation method (next,previous,first,last) of a ResultSet.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:26:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:37:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:38:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:51:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:52:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:53:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantSection.java:21:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantSection.java:90:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddAccountant.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddAccountant.java:109:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:26:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:161:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:19:	Avoid unused imports such as 'javax.swing.LayoutStyle.ComponentPlacement'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:74:	Position literals first in String comparisons
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:74:	Position literals first in String comparisons
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:9:	Avoid unused imports such as 'javax.swing.JTable'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:18:	Avoid unused imports such as 'java.util.List'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:23:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:78:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\DueFee.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\DueFee.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\DueFee.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:14:	Avoid unused imports such as 'java.awt.Font'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:15:	Avoid unused imports such as 'java.awt.Color'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:27:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:187:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\FeeReport.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\FeeReport.java:20:	Perhaps 'contentPane' could be replaced by a local variable.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\FeeReport.java:67:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:5:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:6:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:7:	Use one line for each declaration, it enhances code readability.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:10:	Document empty constructor
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:5:	The utility class name 'StudentDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:10:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:11:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:31:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:32:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:53:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:54:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:55:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:79:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:80:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:82:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:104:	Ensure that resources like this Connection object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:105:	Ensure that resources like this PreparedStatement object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:106:	Ensure that resources like this ResultSet object are closed after use
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewAccountant.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewAccountant.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewStudent.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
-C:\Users\320052123\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewStudent.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\Accountant.java:5:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\Accountant.java:6:	Document empty constructor
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:10:	The utility class name 'AccountantDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:22:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:23:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:26:	Always check the return of one of the navigation method (next,previous,first,last) of a ResultSet.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:26:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:37:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:38:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:51:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:52:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantDao.java:53:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantSection.java:21:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AccountantSection.java:90:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AddAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AddAccountant.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AddAccountant.java:109:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:26:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AddStudent.java:161:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:19:	Avoid unused imports such as 'javax.swing.LayoutStyle.ComponentPlacement'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:74:	Position literals first in String comparisons
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:74:	Position literals first in String comparisons
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:9:	Avoid unused imports such as 'javax.swing.JTable'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:18:	Avoid unused imports such as 'java.util.List'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:23:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\AdminSection.java:78:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\DueFee.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\DueFee.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\DueFee.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:14:	Avoid unused imports such as 'java.awt.Font'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:15:	Avoid unused imports such as 'java.awt.Color'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:27:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\EditStudent.java:187:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\FeeReport.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\FeeReport.java:20:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\FeeReport.java:67:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\Student.java:5:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\Student.java:6:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\Student.java:7:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\Student.java:10:	Document empty constructor
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:5:	The utility class name 'StudentDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:10:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:11:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:31:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:32:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:53:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:54:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:55:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:79:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:80:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:82:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:104:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:105:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\StudentDao.java:106:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\ViewAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\ViewAccountant.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\ViewAccountant.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\ViewStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\ViewStudent.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\ViewStudent.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Accountant.java:5:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Accountant.java:6:	Document empty constructor
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:10:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:10:	The utility class name 'AccountantDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:22:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:23:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:26:	Always check the return of one of the navigation method (next,previous,first,last) of a ResultSet.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:26:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:37:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:38:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:51:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:52:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantDao.java:53:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantSection.java:21:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AccountantSection.java:90:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddAccountant.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddAccountant.java:109:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:26:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AddStudent.java:161:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:19:	Avoid unused imports such as 'javax.swing.LayoutStyle.ComponentPlacement'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:25:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:74:	Position literals first in String comparisons
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:74:	Position literals first in String comparisons
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminLogin.java:84:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:9:	Avoid unused imports such as 'javax.swing.JTable'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:18:	Avoid unused imports such as 'java.util.List'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:23:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\AdminSection.java:78:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\DueFee.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\DueFee.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\DueFee.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:14:	Avoid unused imports such as 'java.awt.Font'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:15:	Avoid unused imports such as 'java.awt.Color'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:19:	Avoid unused imports such as 'javax.swing.JTextPane'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:27:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\EditStudent.java:187:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\FeeReport.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\FeeReport.java:20:	Perhaps 'contentPane' could be replaced by a local variable.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\FeeReport.java:67:	The local variable name 'gl_contentPane' doesn't match '[a-z][a-zA-Z0-9]*'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:5:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:6:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:7:	Use one line for each declaration, it enhances code readability.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\Student.java:10:	Document empty constructor
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:5:	The utility class name 'StudentDao' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:10:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:11:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:31:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:32:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:53:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:54:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:55:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:79:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:80:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:82:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:104:	Ensure that resources like this Connection object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:105:	Ensure that resources like this PreparedStatement object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\StudentDao.java:106:	Ensure that resources like this ResultSet object are closed after use
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewAccountant.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewAccountant.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewAccountant.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewStudent.java:3:	Avoid unused imports such as 'java.awt.BorderLayout'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewStudent.java:8:	Avoid unused imports such as 'javax.swing.JPanel'
+C:\Users\320052125\C++CaseStudy\casestudy1\feereport\src\com\javatpoint\feereport\ViewStudent.java:11:	Avoid unused imports such as 'javax.swing.border.EmptyBorder'
